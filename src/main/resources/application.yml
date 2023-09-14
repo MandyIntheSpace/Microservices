@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://timsinarewon:mandip123@cluster0.dakffnl.mongodb.net/Microservices?retryWrites=true&w=majority
+server:
+  port: 8083
